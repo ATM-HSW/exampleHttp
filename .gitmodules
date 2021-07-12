@@ -1,0 +1,9 @@
+[submodule "http/libHttp"]
+	path = http/libHttp
+	url = git@github.com:ATM-HSW/libHttp.git
+[submodule "https/libHttp"]
+	path = https/libHttp
+	url = git@github.com:ATM-HSW/libHttp.git
+[submodule "http-ipv6/libHttp"]
+	path = http-ipv6/libHttp
+	url = git@github.com:ATM-HSW/libHttp.git
